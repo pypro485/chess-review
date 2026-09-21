@@ -1,0 +1,6 @@
+.env.venv/
+.env
+__pycache__/
+data/reviews.db
+/data/sample_games/
+/data/reviews/
